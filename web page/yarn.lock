@@ -1516,9 +1516,9 @@ auto-bind@^4.0.0:
   integrity sha512-Hdw8qdNiqdJ8LqT0iK0sVzkFbzg6fhnQqqfWhBDxcHZvU75+B+ayzTy8x+k5Ix0Y92XOhOUlx74ps+bA6BeYMQ==
 
 axios@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/axios/-/axios-1.4.0.tgz#38a7bf1224cd308de271146038b551d725f0be1f"
-  integrity sha512-S4XCWMEmzvo64T9GfvQDOXgYRDJ/wsSZc7Jvdgx5u1sd0JwsuPLqb3SYmusag+edF6ziyMensPVqLTSc1PiSEA==
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-1.6.1.tgz#76550d644bf0a2d469a01f9244db6753208397d7"
+  integrity sha512-vfBmhDpKafglh0EldBEbVuoe7DyAavGSLWhuSm5ZSEKQnHhBf0xAAwybbNH1IkrJNGnS/VG4I5yxig1pCEXE4g==
   dependencies:
     follow-redirects "^1.15.0"
     form-data "^4.0.0"
@@ -3097,10 +3097,10 @@ pure-rand@^6.0.0:
   resolved "https://registry.yarnpkg.com/pure-rand/-/pure-rand-6.0.2.tgz#a9c2ddcae9b68d736a8163036f088a2781c8b306"
   integrity sha512-6Yg0ekpKICSjPswYOuC5sku/TSWaRYlA0qsXqJgM/d/4pLPHPuTxK7Nbf7jFKzAeedUhR8C7K9Uv63FBsSo8xQ==
 
-pushkin-client@^1.7.0:
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/pushkin-client/-/pushkin-client-1.7.0.tgz#de6418ee5ae0a5267848b325958cef12c7460a16"
-  integrity sha512-E3huCZjOn8DO4CDxdM58Lm0Pfv13FrHkrPU3IRv58YNfQm0s5Drj9wFyyZa0MeME2gCbgSyS7MJ36BUW9BBaWw==
+pushkin-client@^1.7.1:
+  version "1.7.1"
+  resolved "https://registry.yarnpkg.com/pushkin-client/-/pushkin-client-1.7.1.tgz#cc59baf986f63448d79c6ed332160866e64e0282"
+  integrity sha512-9WLXmrO394ho2LoxnBeYndoahJD0wfkg3e8xp+JoeypHjn3JXZNtVtQsSLC8hxESiRxD/h5T/VLwmptCzBp3pQ==
   dependencies:
     axios "^1.4.0"
 
